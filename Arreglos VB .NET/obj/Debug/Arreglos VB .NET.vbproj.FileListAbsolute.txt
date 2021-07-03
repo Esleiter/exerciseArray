@@ -1,0 +1,20 @@
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\bin\Debug\Estructuras Repetitivas en Visual Basic.Net.exe
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\bin\Debug\Estructuras Repetitivas en Visual Basic.Net.pdb
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\bin\Debug\Estructuras Repetitivas en Visual Basic.Net.xml
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\WindowsApplication1.exercise2.resources
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\WindowsApplication1.splash.resources
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Arreglos VB .NET.vbproj.GenerateResource.Cache
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Estructuras Repetitivas en Visual Basic.Net.exe
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Estructuras Repetitivas en Visual Basic.Net.xml
+C:\Users\Esleiter\Desktop\Nueva carpeta\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Estructuras Repetitivas en Visual Basic.Net.pdb
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\WindowsApplication1.exercise2.resources
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\WindowsApplication1.splash.resources
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Arreglos VB .NET.vbproj.GenerateResource.Cache
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\bin\Debug\Arreglos VB .NET.exe
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\bin\Debug\Arreglos VB .NET.pdb
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\bin\Debug\Arreglos VB .NET.xml
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Arreglos VB .NET.exe
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Arreglos VB .NET.xml
+C:\Users\Esleiter\Desktop\Nueva carpeta (2)\Estructuras Repetitivas en Visual Basic.Net\Arreglos VB .NET\obj\Debug\Arreglos VB .NET.pdb
